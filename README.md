@@ -37,3 +37,19 @@ Elastic Inter **Bold** 48px\
 DAO Inter **Light** 48px
 
 
+
+
+
+
+
+
+## Jellyfish
+| Color 200px  | Empty200px |
+| ------------- | ------------- |
+| ![og jelly](https://user-images.githubusercontent.com/16773608/131717926-b2496bfe-9217-4110-8be8-87466a582f84.png) | ![empty](https://user-images.githubusercontent.com/16773608/131717944-cf920f75-8f73-48fa-8e6b-92c098d7db95.png) |
+
+
+
+
+
+  
