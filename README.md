@@ -47,8 +47,9 @@ DAO Inter **Light** 48px
 | Color 200px  | Empty200px | Head |
 | ------------- | ------------- | ------------- |
 | ![og jelly](https://user-images.githubusercontent.com/16773608/131717926-b2496bfe-9217-4110-8be8-87466a582f84.png) | ![empty2](https://user-images.githubusercontent.com/16773608/131915948-288dd270-4060-44f9-9023-d4911e887bb3.png) | ![head](https://user-images.githubusercontent.com/16773608/131915592-73ebe05d-4363-4b32-9719-afdcda715719.png) |
-
-
+Body: **#FBD4FE** 
+Outline: **#BAA4EA** 
+Mouth + Eye BG: **#332F65** 
 
 
 
