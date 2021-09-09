@@ -5,8 +5,9 @@ Please direct inquiries to elasticdao@protonmail.com
 ## Horizontal Logo
 | Color | / |
 | ------------- | ------------- |
-| ![horizontal logo](https://user-images.githubusercontent.com/16773608/131568977-e3964145-0a61-4969-8a27-fa4b2920ed14.png)
-|  |
+| <img width="1165" alt="watermark" src="https://user-images.githubusercontent.com/16773608/132602130-e95826a8-103c-4ca7-bbfd-9bb2ef752963.png">
+| <img width="1165" alt="horizontal-color" src="https://user-images.githubusercontent.com/16773608/132602081-4fd1154d-dab3-4ead-8bad-1d63592f0717.png">
+ 
   
   
 ## Vertical Logo
