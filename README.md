@@ -53,6 +53,14 @@ Mouth + Eye BG: **#332F65**
 Tongue: **#AA9AE9**
 
 
+  
+## Jellyfish OG
+| Color | / |
+| ------------- | ------------- |
+| ![jelly](https://user-images.githubusercontent.com/16773608/133664974-9b21922d-1128-4acc-838d-cd83168f865d.png)
+|  |
+
+
 
 
   
